@@ -1,0 +1,3 @@
+vless://eb6cb4ff-25a2-4aef-8525-8a6988b44518@zula.ir:8880?security=none&type=ws&path=/?ed%3D2560&host=floki2024.mhdrjb2024.workers.dev&packetEncoding=xudp&encryption=none#vless1
+vless://a95e6ce8-2a59-494f-bc77-520d3b15b2ae@104.17.99.58:8880?security=none&type=ws&path=/?ed%3D2560&host=floki2025.mhdrjb2024.workers.dev&packetEncoding=xudp&encryption=none#vless2
+hysteria2://KevinZakarian@kevin.serverv.net:8443?&insecure=1&obfs=salamander&obfs-password=KevinZakarian#KevinVPN

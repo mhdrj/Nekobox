@@ -1,5 +1,6 @@
 vless://eb6cb4ff-25a2-4aef-8525-8a6988b44518@zula.ir:8880?security=none&type=ws&path=/?ed%3D2560&host=floki2024.mhdrjb2024.workers.dev&packetEncoding=xudp&encryption=none#vless1
 vless://a95e6ce8-2a59-494f-bc77-520d3b15b2ae@104.17.99.58:8880?security=none&type=ws&path=/?ed%3D2560&host=floki2025.mhdrjb2024.workers.dev&packetEncoding=xudp&encryption=none#vless2
 vless://250a2621-0d95-44cb-af67-363be7c74453@conf1.ljcdey.workers.dev:443?security=tls&sni=conf1.ljcdey.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=conf1.ljcdey.workers.dev&packetEncoding=xudp&encryption=none#vless3
+vless://e3e23db4-fff4-4f6d-8360-5f570de1228e@v2.bonfktxq.workers.dev:443?encryption=none&security=tls&sni=v2.bonfktxq.workers.dev&fp=randomized&type=ws&host=v2.bonfktxq.workers.dev&path=%2F%3Fed%3D2560#vless4
 hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&obfs-password=KevinZakarian&insecure=1#Kevin1
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&insecure=1&obfs=salamander&obfs-password=KevinZakarian#Kevin2
